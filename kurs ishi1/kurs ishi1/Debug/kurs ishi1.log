@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+c:\users\user\desktop\sardor hujjat\kurs ishi1\kurs ishi1\MyForm1.h(219): warning C4101: ex: неиспользованная локальная переменная
+c:\users\user\desktop\sardor hujjat\kurs ishi1\kurs ishi1\MyForm.h(19): warning C4101: stolRaqami: неиспользованная локальная переменная
+  MyForm1.cpp
+c:\users\user\desktop\sardor hujjat\kurs ishi1\kurs ishi1\MyForm1.h(219): warning C4101: ex: неиспользованная локальная переменная
+  MyForm2.cpp
+  Создание кода...
+  kurs ishi1.vcxproj -> C:\Users\User\Desktop\SARDOR HUJJAT\kurs ishi1\Debug\kurs ishi1.exe
+  kurs ishi1.vcxproj -> C:\Users\User\Desktop\SARDOR HUJJAT\kurs ishi1\Debug\kurs ishi1.pdb (Full PDB)

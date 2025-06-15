@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\e-max.uz\documents\visual studio 2015\projects\cppwinform30\cppwinform30\MyForm.h(190): warning C4101: ex: неиспользованная локальная переменная
+c:\users\e-max.uz\documents\visual studio 2015\projects\cppwinform30\cppwinform30\MyForm.h(209): warning C4101: ex: неиспользованная локальная переменная
+  CppWinForm30.vcxproj -> C:\Users\e-max.uz\Documents\Visual Studio 2015\Projects\CppWinForm30\Debug\CppWinForm30.exe
+  CppWinForm30.vcxproj -> C:\Users\e-max.uz\Documents\Visual Studio 2015\Projects\CppWinForm30\Debug\CppWinForm30.pdb (Full PDB)
